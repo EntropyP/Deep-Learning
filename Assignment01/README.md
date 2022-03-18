@@ -1,3 +1,6 @@
-[embed]https://github.com/EntropyP/Deep-Learning/blob/main/Assignment01/MLP_Project_Presentation.pdf[/embed]
+Team Member
 
-[embed]https://github.com/EntropyP/Deep-Learning/blob/main/Assignment01/MLP_Project_Presentation.pdf[/embed]
+Pongsarat C. 6310412018
+Theethut N. 6310412021
+Saranchai A. 6310412024
+Krittipat C. 6420400001
